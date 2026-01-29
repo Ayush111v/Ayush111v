@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush111v&label=Profile%20views&color=0e75b6&style=flat" alt="ayush111v" /> </p>
 
-- 💬 me about 3rd yr B.Tech CSE-Honors | C lang |Java | Cloud Computing | DevOps | SQL | GCP@Google |**
+- 💬 me about 3rd yr B.Tech CSE-Honors | C lang |Java | Cloud Computing | DevOps | SQL | GCP@Google |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
