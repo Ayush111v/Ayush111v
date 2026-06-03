@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AYUSH</h1>
 <h3 align="center">A passionate DevOps Student</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+
 
 
 
