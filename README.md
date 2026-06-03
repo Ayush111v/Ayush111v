@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush111v&label=Profile%20views&color=0e75b6&style=flat" alt="ayush111v" /> </p>
+
 
 - 💬 me about 4th yr B.Tech CSE | C lang |Java | Cloud Computing | DevOps | SQL | GCP@Google | CICD | 
 
