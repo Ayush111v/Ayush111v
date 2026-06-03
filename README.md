@@ -1,13 +1,13 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="center">A passionate DevOps Student from India</h3>
+<h3 align="center">A passionate DevOps Student</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush111v&label=Profile%20views&color=0e75b6&style=flat" alt="ayush111v" /> </p>
 
-- 💬 me about 3rd yr B.Tech CSE-Honors | C lang |Java | Cloud Computing | DevOps | SQL | GCP@Google |
+- 💬 me about 4th yr B.Tech CSE | C lang |Java | Cloud Computing | DevOps | SQL | GCP@Google | CICD | 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
